@@ -146,7 +146,7 @@ class Board:
 
 words = Board((
     'knapping',
-    'knappedo',
+    'knappedq',
     'knappple',
     'knapsack',
 )).solve()
